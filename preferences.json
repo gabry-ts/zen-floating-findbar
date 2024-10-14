@@ -1,4 +1,5 @@
 {
   "uc.floatingfindbar.increase.spacing": "Increase space around edge of browser window and find bar",
-  "uc.floatingfindbar.compact.enabled": "Enable compact findbar, similar to Smaller Compact Mode by n7itro"
+  "uc.floatingfindbar.compact.enabled": "Enable compact findbar, similar to Smaller Compact Mode by n7itro",
+  "uc.floatinfindbar.position.top": "Enable moving find bar on top"
 }

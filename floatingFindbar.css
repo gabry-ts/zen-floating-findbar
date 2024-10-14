@@ -28,3 +28,12 @@
     margin-left: calc( 12.5% - var(--zen-element-separation) ) !important;
   }
 }
+
+/* Enable findbar on top */
+@media (-moz-bool-pref: "uc.floatinfindbar.position.top") {
+  /* Move Find Bar above the page*/
+  .browserContainer > findbar {
+    -moz-box-ordinal-group: 0;
+  }
+}
+
